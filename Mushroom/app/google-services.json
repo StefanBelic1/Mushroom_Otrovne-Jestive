@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261666700147",
+    "project_id": "gljive-ba656",
+    "storage_bucket": "gljive-ba656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261666700147:android:082818bc6c1f33a45de306",
+        "android_client_info": {
+          "package_name": "hr.ferit.stefanbelic.mushroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6MaMWcy5rUcoQcd8Hm7dNlMr9oNCzRB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
